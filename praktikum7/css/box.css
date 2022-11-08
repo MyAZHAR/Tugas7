@@ -1,0 +1,38 @@
+body{
+    display: flex;
+}
+
+.box1{
+    background-color: yellow;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+    
+}
+
+.box2{
+    background-color: orange;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+}
+
+.box3{
+    background-color: orangered;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+}
+
+.box4{
+    background-color: red;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+}
+
+img{
+    width: 400px;
+    margin: 0em 1em;
+}
+
